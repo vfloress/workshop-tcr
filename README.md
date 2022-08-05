@@ -104,3 +104,21 @@ Entonces la nómina contendrá la siguiente información:
 Para calcular el ingreso imponible se aplica un 20% de todo el salario bruto anual que supere los 11000$.
 
 Podéis encontrar una tabla con varios ejemplos completos en [EXAMPLE.md](EXAMPLE.md)
+
+## Contruir la imagen con Docker
+`$ docker build -t workshop-tcr .`
+
+## Cómo ejecutar los tests con Gradle
+`$ ./gradlew test`
+
+## Cómo ejecutar los tests con Docker
+`$ docker run --rm workshop-tcr`
+
+## Cómo ejecutar TCR en local
+`$ chmod +x TCR.sh`
+`$ ./TCR.sh`
+
+## Cómo ejecutar TCR con Docker
+`$ chmod +x TCR-docker.sh`
+`$ ./TCR-docker.sh`
+
