@@ -1,4 +1,41 @@
-# Kata Nómina
+# Workshop Test, Commit || Revert
+
+Vamos a jugar a un juego
+
+![](https://media.giphy.com/media/3o7TKSxdQJIoiRXHl6/giphy.gif)
+
+Hoy vamos a trastear un poco con la técnica de programación Test,Commit||Revert (TCR) que consiste en
+definir un test e intentar ponerlo en verde, si en este proceso la ejecución de nuestros tests falla se hará un revert,
+divertido ¿no?
+
+## ¿Cómo vamos a hacerlo?
+Os hemos preparado un script para hacer más rápido el proceso, teneís la posibilidad de
+ejecutarlo en vuestro local si teneís ya instalado jdk11 o podeís ejecutarlo usando docker.
+
+### Ejecución en local
+Primero daremos permiso de ejecución al script
+```
+chmod +x TCR.sh
+```
+Y ya podeis ejecutarlo sin problemas
+```
+./TCR.sh
+```
+
+### Ejecución con Docker
+Primero daremos permiso de ejecución al script
+```
+chmod +x TCR-docker.sh
+```
+Y ya podeis ejecutarlo sin problemas
+```
+./TCR-docker.sh
+```
+
+> 🚨 Usad siempre el script para avanzar, si no estaréis haciendo trampa!!
+
+
+## Kata Nómina
 
 ### Problema a resolver
 
