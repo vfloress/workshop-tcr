@@ -57,7 +57,7 @@ Entonces la nómina contendrá la siguiente información:
 
 - Employee name: Steve Harrington
 
-- Gross salary: 416.67$
+- Monthly gross salary: 416.67$
 
 La regla para calcular el salario en bruto es dividir el salario anual bruto entre 12 meses.
 
@@ -75,9 +75,9 @@ Entonces la nómina contendrá la siguiente información:
 
 - Employee name: Robin Buckley
 
-- Gross salary: 755.00$
+- Monthly gross salary: 755.00$
 
--  National Insurance contributions: 10.00$
+- National Insurance contributions: 10.00$
 
 Para calcular la contribución a la seguridad social se aplicará un 12% cuando el salario bruto anual supera los 8060$.
 
@@ -95,7 +95,7 @@ Entonces la nómina contendrá la siguiente información:
 
 - Employee name: Robin Buckley
 
-- Gross salary: 1000.00$
+- Monthly gross salary: 1000.00$
 
 - National Insurance contributions: 39.40$
 
