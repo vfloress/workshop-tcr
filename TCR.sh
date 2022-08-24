@@ -14,6 +14,6 @@ then
 else
   echo "==================="
   echo  "${green}🙌 Let's commit! 😎${reset}"
-  git add src/main
+  git add src
   git commit -m "Wip"
 fi
