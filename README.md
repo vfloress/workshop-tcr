@@ -22,6 +22,11 @@ Y ya podeis ejecutarlo sin problemas
 ./TCR.sh
 ```
 
+En el caso de windows tenéis el siguiente script
+```
+TCR.bat
+```
+
 ### Ejecución con Docker
 Primero daremos permiso de ejecución al script
 ```
