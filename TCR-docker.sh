@@ -4,7 +4,7 @@ red=`tput setaf 1`
 reset=`tput sgr0`
 
 docker build -t workshop-tcr .
-docker run --rm workshop-tcr
+docker run workshop-tcr
 RESULT=$?
 if [ $RESULT -ne 0 ];
 then
@@ -15,6 +15,6 @@ then
 else
   echo "==================="
   echo  "${green}🙌 Let's commit! 😎${reset}"
-  git add src/main
+  git add src
   git commit -m "Wip"
 fi
