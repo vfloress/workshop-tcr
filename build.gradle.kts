@@ -23,7 +23,7 @@ dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 }
 application {
-    mainClass.set("com.pulpocon.demo.CodelyberKt")
+    mainClass.set("com.pulpocon.demo.TCRApplication")
 }
 
 tasks.withType<KotlinCompile> {
@@ -58,6 +58,6 @@ tasks.check {
 tasks.withType(Jar::class) {
     manifest {
         attributes["Manifest-Version"] = "1.0"
-        attributes["Main-Class"] = "com.pulpocon.demo.CodelyberKt"
+        attributes["Main-Class"] = "com.pulpocon.demo.TCRApplication"
     }
 }
