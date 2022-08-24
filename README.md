@@ -47,7 +47,7 @@ Como somos muy agile :troll face MUAHAHAH, lo vamos a hacer por iteraciones.
 
 Datos básicos de la nómina mensual
 
-Dado que tengo un empleado que se llama Steve Harrington con id 67563 y con un salario anual en bruto de 5000K $.
+Dado que tengo un empleado que se llama Steve Harrington con id 67563 y con un salario anual en bruto de 5000 $.
 
 Cuando se genere su nómina
 
@@ -65,7 +65,7 @@ La regla para calcular el salario en bruto es dividir el salario anual bruto ent
 
 Necesitamos saber la contribución a la seguridad social.
 
-Dado que tengo un empleado que se llama Robin Buckley con id  54637 y con un salario anual en bruto de 9060K $.
+Dado que tengo un empleado que se llama Robin Buckley con id  54637 y con un salario anual en bruto de 9060 $.
 
 Cuando se genere su nómina
 
