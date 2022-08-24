@@ -106,6 +106,4 @@ Entonces la nómina contendrá la siguiente información:
 
 - Taxable income: 83.33$
 
-Para calcular el ingreso imponible se aplica un 20% de todo el salario bruto anual que supere los 11000$.
-
 Podéis encontrar una tabla con varios ejemplos completos en [EXAMPLE.md](EXAMPLE.md)
