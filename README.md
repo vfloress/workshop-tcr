@@ -46,7 +46,7 @@ Y ya podeis ejecutarlo sin problemas
 
 Somos las dueñas del Family Vídeo club en Hawkins y necesitamos un programa que genere las nóminas de nuestros empleados mensualmente. Cada nómina contiene: id del empleado, nombre completo, salario bruto mensual, contribuciones de seguridad social e impuestos.
 
-Como somos muy agile :troll face MUAHAHAH, lo vamos a hacer por iteraciones.
+Como somos muy agile MUAHAHAH, lo vamos a hacer por iteraciones.
 
 ### Primera iteración:
 
